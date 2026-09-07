@@ -1,0 +1,2 @@
+Model,Best_Params,Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Train_Time_s,Predict_Time_s
+SVM,"{'classifier__C': 10, 'classifier__kernel': 'linear'}",0.8227848101265823,0.8195148749154835,0.8381466486729644,0.8268762897795155,0.015506744384765625,0.005109310150146484
